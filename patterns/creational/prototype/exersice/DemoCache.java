@@ -1,7 +1,7 @@
-package patterns.creational.prototipe.exersice;
+package patterns.creational.prototype.exersice;
 
-import patterns.creational.prototipe.exersice.cache.BundledShapeCache;
-import patterns.creational.prototipe.exersice.shapes.Shape;
+import patterns.creational.prototype.exersice.cache.BundledShapeCache;
+import patterns.creational.prototype.exersice.shapes.Shape;
 
 public class DemoCache {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package patterns.creational.prototipe.exersice.shapes;
+package patterns.creational.prototype.exersice.shapes;
 
 import java.util.Objects;
 

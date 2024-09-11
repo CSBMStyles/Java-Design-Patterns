@@ -1,4 +1,4 @@
-package patterns.creational.prototipe.exersice.shapes;
+package patterns.creational.prototype.exersice.shapes;
 
 // Clase Circle que extiende de Shape
 public class Circle extends Shape {

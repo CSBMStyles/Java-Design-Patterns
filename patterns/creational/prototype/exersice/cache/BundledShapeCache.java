@@ -1,11 +1,11 @@
-package patterns.creational.prototipe.exersice.cache;
-
-import patterns.creational.prototipe.exersice.shapes.Circle;
-import patterns.creational.prototipe.exersice.shapes.Rectangle;
-import patterns.creational.prototipe.exersice.shapes.Shape;
+package patterns.creational.prototype.exersice.cache;
 
 import java.util.HashMap;
 import java.util.Map;
+
+import patterns.creational.prototype.exersice.shapes.Circle;
+import patterns.creational.prototype.exersice.shapes.Rectangle;
+import patterns.creational.prototype.exersice.shapes.Shape;
 
 public class BundledShapeCache {
     // Mapa para almacenar las formas en caché

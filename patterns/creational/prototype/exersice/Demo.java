@@ -1,11 +1,11 @@
-package patterns.creational.prototipe.exersice;
-
-import patterns.creational.prototipe.exersice.shapes.Circle;
-import patterns.creational.prototipe.exersice.shapes.Rectangle;
-import patterns.creational.prototipe.exersice.shapes.Shape;
+package patterns.creational.prototype.exersice;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import patterns.creational.prototype.exersice.shapes.Circle;
+import patterns.creational.prototype.exersice.shapes.Rectangle;
+import patterns.creational.prototype.exersice.shapes.Shape;
 
 public class Demo {
     public static void main(String[] args) {
